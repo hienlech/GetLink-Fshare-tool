@@ -1,0 +1,12 @@
+D:\C# source code\Get Link Fshare\Get Link Fshare\bin\Release\Get Link Fshare.exe.config
+D:\C# source code\Get Link Fshare\Get Link Fshare\bin\Release\Get Link Fshare.exe
+D:\C# source code\Get Link Fshare\Get Link Fshare\bin\Release\Get Link Fshare.pdb
+D:\C# source code\Get Link Fshare\Get Link Fshare\bin\Release\MaterialSkin.dll
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get_Link_Fshare.Form1.resources
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get_Link_Fshare.Properties.Resources.resources
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get Link Fshare.csproj.GenerateResource.cache
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get Link Fshare.csproj.CoreCompileInputs.cache
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get Link Fshare.csproj.CopyComplete
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get Link Fshare.exe
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get Link Fshare.pdb
+D:\C# source code\Get Link Fshare\Get Link Fshare\obj\Release\Get Link Fshare.csprojAssemblyReference.cache
